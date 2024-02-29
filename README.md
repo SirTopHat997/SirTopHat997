@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="Welcome, Traveler..." src="https://github.com/SirTopHat997/dynamicreadme/blob/main/assets/bluescreen.png"></div>
+<div align="center" ><img width="100%" alt="Welcome, Traveler..." src="https://github.com/SirTopHat997/SirTopHat997/blob/main/assets/bluescreen.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%9978D7FF&size=30&center=true&vCenter=true&width=450&lines=I'm+Ben; I+Love+Cybersecurity; Avid+Nerd; This+Was+A+Hard+README"></a>

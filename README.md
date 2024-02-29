@@ -15,22 +15,24 @@
   </foreignObject>
 </svg>
 
-<script type="text/pyscript">
-  def sendMessage():
-      userInput = document.getElementById('user-input').value
-      chatMessages = document.getElementById('chat-messages')
-      userMessage = '<p>You: ' + userInput + '</p>'
-      botResponse = getBotResponse(userInput)
-      botMessage = '<p>Bot: ' + botResponse + '</p>'
-      chatMessages.innerHTML += userMessage + botMessage
-      document.getElementById('user-input').value = ''
+<script>
+  function sendMessage() {
+    var userInput = document.getElementById('user-input').value;
+    var chatMessages = document.getElementById('chat-messages');
+    var userMessage = '<p>You: ' + userInput + '</p>';
+    var botResponse = getBotResponse(userInput);
+    var botMessage = '<p>Bot: ' + botResponse + '</p>';
+    chatMessages.innerHTML += userMessage + botMessage;
+    document.getElementById('user-input').value = '';
+  }
 
-  def getBotResponse(userInput):
-      # Simple chatbot logic goes here
-      # You can use Python to generate responses and integrate it using server-side scripting
-      # For this example, I'll provide a basic hardcoded response
-      if 'hello' in userInput.lower() or 'hi' in userInput.lower():
-          return 'Hello! How can I help you?'
-      else:
-          return "I'm sorry, I didn't understand that."
+  function getBotResponse(userInput) {
+    // Simple chatbot logic goes here
+    // For this example, I'll provide a basic hardcoded response
+    if (userInput.toLowerCase().includes('hello') || userInput.toLowerCase().includes('hi')) {
+      return 'Hello! How can I help you?';
+    } else {
+      return "I'm sorry, I didn't understand that.";
+    }
+  }
 </script>

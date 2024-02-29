@@ -15,24 +15,8 @@
   </foreignObject>
 </svg>
 
-<script>
-  function sendMessage() {
-    var userInput = document.getElementById('user-input').value;
-    var chatMessages = document.getElementById('chat-messages');
-    var userMessage = '<p>You: ' + userInput + '</p>';
-    var botResponse = getBotResponse(userInput);
-    var botMessage = '<p>Bot: ' + botResponse + '</p>';
-    chatMessages.innerHTML += userMessage + botMessage;
-    document.getElementById('user-input').value = '';
-  }
+<div>
+  <label for="user-input">Type something:</label>
+  <input type="text" id="user-input" name="user-input">
+</div>
 
-  function getBotResponse(userInput) {
-    // Simple chatbot logic goes here
-    // For this example, I'll provide a basic hardcoded response
-    if (userInput.toLowerCase().includes('hello') || userInput.toLowerCase().includes('hi')) {
-      return 'Hello! How can I help you?';
-    } else {
-      return "I'm sorry, I didn't understand that.";
-    }
-  }
-</script>

@@ -1,16 +1,21 @@
-### Hi there 👋
+# My Basic Website
 
-<!--
-**SirTopHat997/SirTopHat997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a simple website created using HTML and SVG elements.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Basic Website</title>
+</head>
+<body>
+    <h1>Welcome to My Basic Website</h1>
+    <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+    </svg>
+    <p>This is a simple paragraph.</p>
+    <p>You can include any HTML content here.</p>
+</body>
+</html>

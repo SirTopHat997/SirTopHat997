@@ -1,8 +1,7 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="Welcome, Traveler..." src="https://github.com/SirTopHat997/SirTopHat997/blob/main/assets/bluescreen.png"></div>
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%9978D7FF&size=30&center=true&vCenter=true&width=450&lines=I'm+Ben; I+Love+Cybersecurity; Avid+Nerd; This+Was+A+Hard+README"></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=SirTopHat997;Cybersecurity+Nerd;I+use+-+Windows%2C+Kali%2C+FydeOS;If+you+see+this%2C+follow+me)](https://git.io/typing-svg)
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>

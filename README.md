@@ -4,7 +4,6 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=SirTopHat997;Cybersecurity+Nerd;If+you+see+this%2C+follow+me" alt="Typing SVG" /></a>
 
-
 <h2>:busts_in_silhouette: How to reach me</h2>
 <!--
 TEMPLATE

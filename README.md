@@ -2,7 +2,7 @@
 <div align="center" ><img width="100%" alt="Welcome, Traveler..." src="https://github.com/SirTopHat997/SirTopHat997/blob/main/assets/bluescreen.png"></div>
 
 <div align="center">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=SirTopHat997;Cybersecurity+Nerd;I+use+-+Windows%2C+Kali%2C+FydeOS;If+you+see+this%2C+follow+me)](https://git.io/typing-svg)
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=SirTopHat997;Cybersecurity+Nerd;I+use+-+Windows%2C+Kali%2C+FydeOS;If+you+see+this%2C+follow+me" alt="Typing SVG" /></a>
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>
